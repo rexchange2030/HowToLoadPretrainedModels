@@ -39,4 +39,4 @@ In this Colab,
 
 # Feel Free To Modify And Change Pre-Trained Model
 
-Feel Free to Modify.
+Feel Free to Modify the repository.
