@@ -37,6 +37,11 @@ In this Colab,
 1. You will find yourself diving in the power of MobileNet
 2. You are going to use the model for the infamous Cats/Dogs Dataset Classification task.
 
+# IIIrd Colab - BeansDatasetClassification
+In this Colab,
+1. You will work with Beans dataset taken from the tensorflow hub
+
+
 # Feel Free To Modify And Change Pre-Trained Model
 
 Feel Free to Modify the repository.
